@@ -46,33 +46,31 @@
 	* Model: CXP3
 	* Draw: 1000W
 	* V3 Motor Spares: [lewmar.com](https://www.lewmar.com/content/v2v3-windlass-spares)
-	* Motor Gearbox Assembly:
-		* 12v:
+	* 12v:
+		* Motor Gearbox Assembly:
 			* Part No: 68001071
 			* Url: [lewmar.com](https://www.lewmar.com/content/cpx-windlass-motor-gearbox?v=25721)
-		* 24v:
-			* Part No: 68001072
-			* Url: [lewmar.com](https://www.lewmar.com/content/cpx-windlass-motor-gearbox?v=25722)
-	* Motor:
-		* 12v:
+		* Motor:
 		  * Part No: 60000451spa?
 			* url: [defender.com](https://defender.com/en_us/lewmar-12v-1000w-motor-spare-60000451spa?utm_id=150171837047&utm_campaign=19735474073&utm_source=google&utm_medium=paid&utm_content=649561344444&gad_source=1&gclid=Cj0KCQiA4L67BhDUARIsADWrl7G-Jz7c5HVrop3_NzO3MGj9sJ3c_NgSgEKue1c1sL63spEmK9ocA7waArm5EALw_wcB )
-		* 24v:
+		* V3 GearBox
+		  * Part No: 66810007
+			* url: [lewmar.com](https://www.lewmar.com/content/v1v2v3-windlass-motor-gearbox-non-fastfit?v=26383)
+		* Motor GearBox Plus Contactor
+			* Part No: 68001045
+			* url: [mauripro.com](https://www.mauripro.com/products/lewspr68001045)
+	* 24v:
+		* Motor Gearbox Assembly:
+			* Part No: 68001072
+			* Url: [lewmar.com](https://www.lewmar.com/content/cpx-windlass-motor-gearbox?v=25722)
+		* Motor:
 			* Part No: 66000765
 			* url: [mauripro.com](https://www.mauripro.com/products/lewspr66000765)
 			* note: Source of association between CPX3 and V3
-	* V3 GearBox
-		* 12v:
-		  * Part No: 66810007
-			* url: [lewmar.com](https://www.lewmar.com/content/v1v2v3-windlass-motor-gearbox-non-fastfit?v=26383)
-		* 24v:
+		* V3 GearBox
 			* Part No: 66810008
 			* url: [lewmar.com](https://www.lewmar.com/content/v1v2v3-windlass-motor-gearbox-non-fastfit?v=26384)
-	* Motor GearBox Plus Contactor
-		* 12v:
-			* Part No: 68001045
-			* url: [mauripro.com](https://www.mauripro.com/products/lewspr68001045)
-		* 24v:
+		* Motor GearBox Plus Contactor
 			* Part No: 68001046
 			* url [mauripro.com](https://www.mauripro.com/products/lewspr68001046)
 	* Mainsail Cars
