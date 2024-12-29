@@ -10,16 +10,17 @@ Dufour 410/412 Information
 ## Inventory
 
 * Sump Pump Automatic
-	Jabsco
+	* Brand: Jabsco
 * Sump Pump Maual
-	Whale	BP5012
+	* Brand: Whale
+	* Model: BP5012
 * Head
 	* Brand: Jabsco
 * Emergency Ladder
 	* Location: Stern
 	* Brand: Osculati
 	* url: [osculati.com](https://www.osculati.com/en/11629-m-022632/recess-fit-3-step-emergency-ladder)
-* Battery Charter
+* Battery Charger
 	* Brand: Cristec
 	* Model: CPS3
 	* Voltage: 12V
