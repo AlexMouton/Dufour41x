@@ -1,4 +1,4 @@
-~[Dufour](./Logo.png)
+![Dufour](./Logo.png)
 
 # Designer
 * [Felci Yacht Design](https://www.felciyachtdesign.com/yachts/cruiser/dufour-410-grand-large/)
