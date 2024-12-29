@@ -3,6 +3,7 @@ Dufour 410/412 Information
 
 ## Designer
 * [Felci Yacht Design](https://www.felciyachtdesign.com/yachts/cruiser/dufour-410-grand-large/)
+
 ## Owners Manual
 * [Dufour 410 Owners Manual (English)](./Dufour410owners.pdf)
 
