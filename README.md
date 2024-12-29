@@ -9,24 +9,24 @@
 # Inventory
 
 * Sump Pump Automatic
-	* Brand: Jabsco
+	* Make: Jabsco
 * Sump Pump Maual
-	* Brand: Whale
+	* Make: Whale
 	* Model: BP5012
 * Head
-	* Brand: Jabsco
+	* Make: Jabsco
 * Emergency Ladder
 	* Location: Stern
-	* Brand: Osculati
+	* Make: Osculati
 	* url: [osculati.com](https://www.osculati.com/en/11629-m-022632/recess-fit-3-step-emergency-ladder)
 * Battery Charger
-	* Brand: Cristec
+	* Make: Cristec
 	* Model: CPS3
 	* Voltage: 12V
 	* Supply: (100A?)
 	* [Manual](./cps3_12v16a.pdf)
 * Motor
-	* Brand: Volvo Penta
+	* Make: Volvo Penta
 	* Model: D2-40
 	* [Service Manual](VolvoD240Service.pdf)
 * Alternator
@@ -34,7 +34,7 @@
 * Microwave
 	* Draw: 600W
 * Water Heater
-	* Brand: Quick
+	* Make: Quick
 	* Model Bx 20L
 	* Draw: 500W or 1200W?
 	* 500W 230V
@@ -42,7 +42,7 @@
 	* 1200W 230V
 		* url: [mauripro.com](https://www.mauripro.com/products/qckflb32012s000a00?variant=49349027823922&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopTWxYtQHrVujKiYg0Nm9mG-8yqECRO8m0hIkPoXAHTyKEnIHyK7oE&gQT=1)
 * Windlass
-	* Brand: Lewmar
+	* Make: Lewmar
 	* Model: CXP3
 	* Draw: 1000W
 	* V3 Motor Spares: [lewmar.com](https://www.lewmar.com/content/v2v3-windlass-spares)
@@ -75,3 +75,10 @@
 		* 24v:
 			* Part No: 68001046
 			* url [mauripro.com](https://www.mauripro.com/products/lewspr68001046)
+	* Mainsail Cars
+		* Make: Rutgerson
+		* Model: 1530-11-05?
+		* recommended upgrade:
+			* 1535-11-05 (glass filled composite)
+			* 1540-11-06 (aluminum)
+			* 1536-11-05 ("big wheel")?
