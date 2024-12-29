@@ -1,13 +1,12 @@
-# Dufour41x
-Dufour 410/412 Information
+~[Dufour](./Logo.png)
 
-## Designer
+# Designer
 * [Felci Yacht Design](https://www.felciyachtdesign.com/yachts/cruiser/dufour-410-grand-large/)
 
-## Owners Manual
+# Owners Manual
 * [Dufour 410 Owners Manual (English)](./Dufour410owners.pdf)
 
-## Inventory
+# Inventory
 
 * Sump Pump Automatic
 	* Brand: Jabsco
