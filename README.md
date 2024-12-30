@@ -45,6 +45,7 @@
 	* Make: Lewmar
 	* Model: CXP3
 	* Draw: 1000W
+	* [Manual](./CPX3.pdf)
 	* V3 Motor Spares: [lewmar.com](https://www.lewmar.com/content/v2v3-windlass-spares)
 	* 12v:
 		* Motor Gearbox Assembly:
