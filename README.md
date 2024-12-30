@@ -8,9 +8,9 @@
 
 # Inventory
 
-* Sump Pump Automatic
+* Sump Pump (Automatic)
 	* Make: Jabsco
-* Sump Pump Maual
+* Sump Pump (Manual)
 	* Make: Whale
 	* Model: BP5012
 * Head
