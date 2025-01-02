@@ -27,8 +27,10 @@
 	* [Manual](./cps3_12v16a.pdf)
 * Motor
 	* Make: Volvo Penta
-	* Model: D2-40
-	* [Service Manual](VolvoD240Service.pdf)
+		* D2-40
+			* [Service Manual](VolvoD240Service.pdf)
+		* D2-55
+			* [Operators Manual](VolvoD255Operator.pdf)
 * Alternator
 	* Supply: (115A?)
 * Microwave
