@@ -6,6 +6,6 @@ li {
   list-style-type: none;
 }
 
-.logo {
-  width: 8vw;
+img.logo {
+  height: 7em;
 }
