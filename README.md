@@ -1,4 +1,4 @@
-![41x](./41x.png)
+<img src="./41x.png" alt="41x" class="logo"/>
 
 # Designer
 * [Felci Yacht Design](https://www.felciyachtdesign.com/yachts/cruiser/dufour-410-grand-large/)
