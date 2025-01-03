@@ -84,18 +84,18 @@ A resource for Dufour 410 & 410 sailboats
 	<tbody>
 		<tr>
 			<td>Sail area</td>
-			<td>764.2 sq ft</td>
-			<td>71 m</td>
+			<td>764.2 ft<sup>2</sup></td>
+			<td>71 m<sup>2</sup></td>
 		</tr>
 		<tr>
 			<td>Mainsail</td>
-			<td>409.0 sq ft</td>
-			<td>38 m</td>
+			<td>409.0 ft<sup>2</sup></td>
+			<td>38 m<sup>2</sup></td>
 		</tr>
 		<tr>
 			<td>Genoa</td>
-			<td>355.2 sq ft</td>
-			<td>33 m</td>
+			<td>355.2 ft<sup>2</sup></td>
+			<td>33 m<sup>2</sup></td>
 		</tr>
 	</tbody>
 </table>
