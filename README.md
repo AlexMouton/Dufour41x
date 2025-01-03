@@ -73,16 +73,70 @@ A resource for Dufour 410 & 410 sailboats
 
 # Sail Plan
 
-* Sail area:    71 m (764.2 sq ft)
-* Mainsail:     38 m (409.0 sq ft)
-* Genoa:     33 m (355.2 sq ft)
+<table>
+	<thead>
+		<tr>
+			<th></th>
+			<th>Imperial</th>
+			<th>Metric</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Sail area</td>
+			<td>764.2 sq ft</td>
+			<td>71 m</td>
+		</tr>
+		<tr>
+			<td>Mainsail</td>
+			<td>409.0 sq ft</td>
+			<td>38 m</td>
+		</tr>
+		<tr>
+			<td>Genoa</td>
+			<td>355.2 sq ft</td>
+			<td>33 m</td>
+		</tr>
+	</tbody>
+</table>
 
 # Sail Dimensions
-* I:    14.5 m (156.1 sq ft)
-* J:    4.3 m (46.3 sq ft)
-* P:    13.9 m (149.6 sq ft)
-* E:    4.7 m (50.6 sq ft)
-* LP:    4.61 m (49.6 sq ft)
+<table>
+	<thead>
+		<tr>
+			<th></th>
+			<th>Imperial</th>
+			<th>Metric</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>I</td>
+			<td>51.5 ft</td>
+			<td>15.7 m</td>
+		</tr>
+		<tr>
+			<td>J</td>
+			<td>14.1 ft</td>
+			<td>4.3 m</td>
+		</tr>
+		<tr>
+			<td>P</td>
+			<td>45.6 ft</td>
+			<td>13.9 m</td>
+		</tr>
+		<tr>
+			<td>E</td>
+			<td>15.4 ft</td>
+			<td>4.7 m</td>
+		</tr>
+		<tr>
+			<td>LP</td>
+			<td>15.1 ft</td>
+			<td>4.61 m</td>
+		</tr>
+	</tbody>
+</table>
 
 # Inventory
 
