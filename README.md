@@ -67,6 +67,7 @@ A resource for Dufour 410 & 410 sailboats
 			<td>CE Certification</td>
 			<td>Category A</td>
 			<td></td>
+		</tr>
   </tbody>
 </table>
 
