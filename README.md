@@ -1,5 +1,7 @@
 <img src="./41x.png" alt="41x" class="logo"/>
 
+A resource for Dufour 410 & 410 sailboats
+
 # Designer
 * [Felci Yacht Design](https://www.felciyachtdesign.com/yachts/cruiser/dufour-410-grand-large/)
 
