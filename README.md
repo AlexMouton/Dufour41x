@@ -58,18 +58,10 @@ A resource for Dufour 410 & 410 sailboats
 			<td>44 gallons</td>
 			<td>200 L</td>
 		</tr>
-		<tr>
-			<td>Engine</td>
-			<td>40 hp / 55 hp</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>CE Certification</td>
-			<td>Category A</td>
-			<td></td>
-		</tr>
   </tbody>
 </table>
+
+<!-- CE Category -->
 
 # Sail Plan
 
