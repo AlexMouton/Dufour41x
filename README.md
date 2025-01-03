@@ -9,30 +9,30 @@ A resource for Dufour 410 & 410 sailboats
 * [Dufour 410 Owners Manual (English)](./Dufour410owners.pdf)
 
 # Specs
-Length overall    12.35 m      40’6”
-Length waterline     11.15 m     36’7”
-Hull length     11.98 m     39’4”
-Hull width     4.2 m     13’9”
-Displacement     8940 kg     19,710 lbs
-Draft     2.1 m / 1.75 m        6’11” / 5’8”
-Water capacity     380 L     83.6 gallons
-Fuel tank capacity     200 L     44 gallons
-Engine     40 hp / 55 hp
+* Length overall    12.35 m      40’6”
+* Length waterline     11.15 m     36’7”
+* Hull length     11.98 m     39’4”
+* Hull width     4.2 m     13’9”
+* Displacement     8940 kg     19,710 lbs
+* Draft     2.1 m / 1.75 m        6’11” / 5’8”
+* Water capacity     380 L     83.6 gallons
+* Fuel tank capacity     200 L     44 gallons
+* Engine     40 hp / 55 hp
 
 <!-- Certification                               CE Category A -->
 
 # Sail Plan
 
-Sail area :    71 m (764.2 sq ft)
-Mainsail :     38 m (409.0 sq ft)
-Genoa :     33 m (355.2 sq ft)
+* Sail area:    71 m (764.2 sq ft)
+* Mainsail:     38 m (409.0 sq ft)
+* Genoa:     33 m (355.2 sq ft)
 
 # Sail Dimensions
-I :    14.5 m (156.1 sq ft)
-J :    4.3 m (46.3 sq ft)
-P :    13.9 m (149.6 sq ft)
-E :    4.7 m (50.6 sq ft)
-LP :    4.61 m (49.6 sq ft)
+* I:    14.5 m (156.1 sq ft)
+* J:    4.3 m (46.3 sq ft)
+* P:    13.9 m (149.6 sq ft)
+* E:    4.7 m (50.6 sq ft)
+* LP:    4.61 m (49.6 sq ft)
 
 # Inventory
 
