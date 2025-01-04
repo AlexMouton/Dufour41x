@@ -14,3 +14,7 @@ img.logo {
 img.github {
   width: 1.5em;
 }
+
+table {
+  display: inline-block;
+}
